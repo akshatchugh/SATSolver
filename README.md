@@ -11,4 +11,5 @@ How to run:-
 	
 	3) This will output #t or #f depending on if it is satisfiable. (returns #t for our example)
 	
-	4) If it returns #t, type `assign` and it will provide a solution. If some variables are not assigned any value, then their value can be considered to be either true or false. (gives 2->#t and 4->#t for our example)  
+	4) If it returns #t, type `assign` and it will provide a solution. If some variables are not assigned any value,
+	then their value can be considered to be either true or false. (gives 2->#t and 4->#t for our example)  
